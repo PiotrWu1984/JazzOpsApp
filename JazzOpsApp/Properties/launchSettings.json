@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "JazzOpsApp": {
+      "commandName": "Project",
+      "commandLineArgs": "Demo"
+    }
+  }
+}
